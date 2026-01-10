@@ -1,3 +1,5 @@
+# Requires admin Ppermissions
+
 import ctypes
 import win32security
 import win32con as con
