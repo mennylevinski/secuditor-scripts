@@ -1,6 +1,6 @@
 # Secuditor Scripts
 
-A collection of open source Windows security diagnostic scripts used by the Secuditor project.
+A collection of open source Windows security diagnostic scripts used by the Secuditor Project.
 
 All scripts in this repository are licensed under the MIT License and may be used independently.  
 
