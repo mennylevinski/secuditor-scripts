@@ -1,7 +1,10 @@
+"""
+Inspects the system for server side remote features.
+"""
+
 import os
 import subprocess
 import socket
-
 
 # --- Remote Server Settings ---
 def get_remote_server_settings():
@@ -380,7 +383,6 @@ def format_remote_server_settings(settings):
             report.append("–" * 40)
     
     return "\n".join(report)
-
 
 if __name__ == "__main__":
     print("Remote Server Report")
