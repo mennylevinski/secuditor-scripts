@@ -1,3 +1,7 @@
+"""
+Audits Windows credential protection mechanisms.
+"""
+
 import os
 import sys
 import subprocess
@@ -174,7 +178,6 @@ def run_credential_integrity_checks():
     report.append(f"  {lsass_signature_status}")
 
     return "\n".join(report)
-
 
 if __name__ == "__main__":
     print("Credential Integrity Report")
