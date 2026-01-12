@@ -1,9 +1,12 @@
+"""
+Evaluates local and domain affiliated password policies.
+"""
+
 import os
 import subprocess
 import getpass
 import re
 import winreg
-
 
 # --- Main password policy checker ---
 def get_password_policy_nonadmin():
@@ -146,7 +149,6 @@ def format_password_policy(policy):
             report.append("–" * 40)
 
     return "\n".join(report)
-
 
 if __name__ == "__main__":
     print("Password Policy Report")
