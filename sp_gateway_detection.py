@@ -10,7 +10,6 @@ import re
 import requests
 from urllib3.exceptions import InsecureRequestWarning
 
-# --- Gateway device settings ---
 # --- Suppress HTTPS certificate warnings (safe for local routers) ---
 warnings.simplefilter("ignore", InsecureRequestWarning)
 
@@ -221,4 +220,3 @@ if __name__ == "__main__":
     print("")
 
     os.system("pause")
-    
