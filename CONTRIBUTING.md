@@ -52,5 +52,4 @@ Example header:
 ```python
 """
 Description: Checks example security configuration on Windows
-Requires: Admin privileges
 """
