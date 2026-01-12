@@ -51,7 +51,6 @@ Example header:
 
 ```python
 """
-sp_example.py
 Description: Checks example security configuration on Windows
 Requires: Admin privileges
 """
