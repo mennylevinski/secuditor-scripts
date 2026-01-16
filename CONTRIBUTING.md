@@ -43,8 +43,6 @@ Each script should:
 
 - Be **self-contained**
 - Include a short header comment explaining its purpose
-- Handle errors gracefully
-- Avoid destructive actions by default
 - Clearly indicate if **administrator privileges** are required
 
 Example header:
