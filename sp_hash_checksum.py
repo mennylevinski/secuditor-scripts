@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Menny Levinski
+
 """
 Calculates cryptographic file hashes for integrity verification.
 """
