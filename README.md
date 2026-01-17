@@ -13,6 +13,7 @@ For the full application, visit **[Secuditor Lite](https://github.com/secuditor/
 - [sp_domain_settings.py](scripts/sp_domain_settings.py) – Identifies domain affiliation and discovers related settings.
 - [sp_gateway_detection.py](scripts/sp_gateway_detection.py) – Detects the local network's default gateway and public IP.
 - [sp_hash_checksum.py](scripts/sp_hash_checksum.py) – Calculates cryptographic file hashes for integrity verification.
+- [sp_https_scanner.py](scripts/sp_https_scanner.py) - Mini HTTPS security scanner (port 443 only).
 - [sp_installed_apps.py](scripts/sp_installed_apps.py) – Outputs a list of applications installed on the device.
 - [sp_network_settings.py](scripts/sp_network_settings.py) – Presents the device's network adapters and configurations.
 - [sp_password_policy.py](scripts/sp_password_policy.py) – Evaluates local and domain affiliated password policies.
