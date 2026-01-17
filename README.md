@@ -1,12 +1,13 @@
-# Secuditor Scripts
+## Secuditor Scripts
 
 A partial collection of open source Python scripts (MIT license) developed for the Secuditor project. All scripts in this repository are standalone, and some may require the installation of third party packages.
 
 For the full application, visit **[Secuditor Lite](https://github.com/secuditor/secuditor-lite)** which is distributed separately as closed source **freeware**.
 
 ---
+<br>
 
-## Scripts Catalog
+## Standalone Modules
 
 - [sp_credential_integrity.py](scripts/sp_credential_integrity.py) – Audits Windows credential protection mechanisms.
 - [sp_domain_settings.py](scripts/sp_domain_settings.py) – Identifies domain affiliation and discovers related settings.
@@ -23,9 +24,11 @@ For the full application, visit **[Secuditor Lite](https://github.com/secuditor/
 - [sp_system_audit.py](scripts/sp_system_audit.py) – Presents a detailed report of the system's settings and inventory.
 
 ---
+<br>
 
 ### [Contributing Policy](CONTRIBUTING.md)
 
 ---
+<br>
 
 ### [Code of Conduct](CODE_OF_CONDUCT.md)
