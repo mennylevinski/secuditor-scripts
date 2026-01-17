@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Menny Levinski
+
 """
 Inspects the system for server side remote features.
 """
