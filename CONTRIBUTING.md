@@ -1,7 +1,7 @@
 # Contributing to secuditor-scripts
 
 Thank you for your interest in contributing to **secuditor-scripts**.
-This repository contains a partial collection of open-source Python scripts developed as part of the Secuditor project, focused on diagnostic security tools for Windows endpoints and networks**.
+This repository contains a partial collection of open-source Python scripts developed as part of the Secuditor project, focused on diagnostic security tools for Windows endpoints and networks.
 
 Contributions are welcome, as long as they align with the project’s goals and standards.
 
