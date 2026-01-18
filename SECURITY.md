@@ -1,0 +1,69 @@
+# Security Policy
+
+## Supported Versions
+
+| Version        | Supported |
+| -------------- | --------- |
+| Latest release | ✅ Yes     |
+| Older releases | ❌ No      |
+
+Users are strongly advised to always download and run the most recent version.
+
+---
+
+## Reporting a Security Issue
+
+If you discover a security vulnerability related to Secuditor Lite, please report it responsibly.
+
+### Please **DO NOT**:
+
+* Publish the vulnerability publicly before it is addressed
+* Open public GitHub issues for security-related findings
+* Share exploit details, PoCs, or screenshots that could enable misuse
+
+### How to report
+
+Please report security issues via the official email: info@secuditor.com 
+
+When reporting, please include:
+
+* A clear description of the issue
+* Affected Secuditor Lite version
+* Steps to reproduce (if applicable)
+* Expected vs actual behavior
+* Potential security impact
+
+---
+
+## Response & Handling
+
+The maintainer aims to:
+
+* Acknowledge security reports within **72 hours**
+* Investigate and validate reported issues
+* Release a patched version or mitigation when appropriate
+
+Response timelines may vary depending on severity and complexity.
+
+---
+
+## Scope
+
+This security policy applies to:
+
+* Application logic and workflows
+* Local system and network inspection features
+* Report generation and logging mechanisms
+* Update and packaging integrity (EXE distribution)
+
+Out of scope:
+
+* User misconfiguration
+* Third-party software or system vulnerabilities
+* Unauthorized or illegal use of the tool
+
+---
+
+## Acknowledgements
+
+Thank you for contributing to a more secure Windows ecosystem.
