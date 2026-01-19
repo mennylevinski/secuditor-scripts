@@ -2,6 +2,10 @@
 
 """
 Mapping shared folders (requires admin permissions).
+
+- Third-party:
+  - pywin32 (win32security, win32con, pythoncom)
+  - wmi
 """
 
 import ctypes
