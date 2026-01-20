@@ -1,4 +1,4 @@
-## Secuditor Scripts
+# Secuditor Scripts
 
 A partial collection of open source Python scripts (MIT License) developed for the **Secuditor project**. All **[scripts](/scripts)** in this repository are **standalone**, and some may require the installation of third party packages.
 
